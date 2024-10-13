@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rrr</h1>
-<h3 align="center">A beginner dev from USA! A Hack Club reviewer!</h3>
+<h3 align="center">A beginner dev from USA! A Hack Club Boba reviewer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfgamer2&label=Profile%20views&color=0e75b6&style=flat" alt="wolfgamer2" /> </p>
 
