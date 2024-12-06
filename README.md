@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfgamer2&show_icons=true&locale=en&layout=compact" alt="wolfgamer2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wolfgamer2&" alt="wolfgamer2" /></p>
-https://github-readme-stats.vercel.app/api?username=WolfGamer2
+[![Rushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfGamer2)](https://github.com/anuraghazra/github-readme-stats)
