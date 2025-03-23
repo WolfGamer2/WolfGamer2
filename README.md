@@ -4,19 +4,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolfgamer2" alt="wolfgamer2" /></a> </p>
 
 
-- 🔭 I’m currently working on [Boba Drops](https://boba.hackclub.com/)
+- 🔭 I’m currently working on [Noted](https://post-it-note.vercel.app/)
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to start on Hephestus Forge
-
+- 👯 I’m looking to start on a new JS based YSWS (checkout ysws.hackclub.com
 - 🤝 I’m looking for help with **Anything!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WolfGamer2](https://github.com/WolfGamer2)
 
-- 💬 Ask me about **music & crew**
+- 💬 Ask me about **crew & diving**
 
-- 📫 How to reach me **rushilchopra123@gmail.com**
+- 📫 How to reach me **rushil@hackclub.com**
 
 - ⚡ Fun fact **I own a non-profit!**
 
