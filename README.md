@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to start on a new JS based YSWS (checkout ysws.hackclub.com
+- 👯 I’m looking to start on a new JS-based YSWS (checkout ysws.hackclub.com)
 - 🤝 I’m looking for help with **Anything!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WolfGamer2](https://github.com/WolfGamer2)
